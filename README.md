@@ -1,5 +1,5 @@
 # hello-world
-created as a learning exercise following the tutorial
+Created as a learning exercise following the tutorial
 
 Hello folks,
 What happened since I left you guys, what a mess you have made!
